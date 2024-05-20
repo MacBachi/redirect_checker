@@ -6,7 +6,7 @@ A simple Python tool to check if a URL redirects and to what destination.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/redirect_checker.git
+    git clone https://github.com/MacBachi/redirect_checker.git
     cd redirect_checker
     ```
 
